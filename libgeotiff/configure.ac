@@ -361,6 +361,7 @@ AC_CONFIG_FILES([
     man/man1/Makefile
     cmake/Makefile
     test/Makefile
+    libgeotiff.pc
 ])
 
 AC_OUTPUT
